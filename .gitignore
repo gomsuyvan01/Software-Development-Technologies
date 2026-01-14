@@ -1,3 +1,4 @@
 __pycache__/
 *.pkl
 cleaned_data.csv
+*.png
