@@ -24,7 +24,7 @@ def preprocess_data(data):
 
     return data
 
-if name == "__main__":
+if __name__ == "__main__":
     data = load_data()
     data = preprocess_data(data)
 
